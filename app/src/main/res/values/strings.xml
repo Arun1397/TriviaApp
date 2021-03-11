@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="app_summary">Here are the answers selected:</string>
+    <string name="question2">What are the colors in the Indian national flag?</string>
+    <string name="question1">Who is the best cricketer in the world ?</string>
+</resources>
